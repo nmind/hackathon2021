@@ -1,5 +1,5 @@
 # hackathon2021
-Project notes for the May 2021 NMinD hackathon. The big-picture and overview is managed as a [GitHub project](https://github.com/orgs/nmind/projects/1). If you don't have access to this repository and would like it, please send a message to @gkiar or another organizer.
+Project notes for the May 17-21 2021 NMinD hackathon. The big-picture and overview is managed as a [GitHub project](https://github.com/orgs/nmind/projects/1). If you don't have access to this repository and would like it, please send a message to @gkiar or another organizer.
 
 ### Adding a project
 Projects are managed as a set of [Issue Labels](https://github.com/nmind/hackathon2021/labels).
