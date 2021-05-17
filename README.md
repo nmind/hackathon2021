@@ -12,5 +12,5 @@ Tasks are managed as [Issues](https://github.com/nmind/hackathon2021/issues).
 To add a task, simply open an issue and apply the label for the appropriate project. It's encouraged to also add labels
 such as `question`, `help wanted`, or `good first issue`, so others know where to jump in.
 
-### Participationg
+### Participating
 Meetings will largely take place via Zoom and Gathertown. Chat will take place on the NMinD [slack](http://nmindteamworkspace.slack.com) organization. If you're not a member, please reach out to one of the organizers individually for an invitation link which will be provided separately via email, similar to the video conferencing addresses.
