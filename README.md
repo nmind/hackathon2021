@@ -13,4 +13,4 @@ To add a task, simply open an issue and apply the label for the appropriate proj
 such as `question`, `help wanted`, or `good first issue`, so others know where to jump in.
 
 ### Participationg
-Meetings will largely take place via Zoom and Gathertown. Chat will take place on [Mattermost](http://mattermost.brainhack.org/) in the `#NMinD` channel. Links to the video conferencing will be shared separately via email and Mattermost.
+Meetings will largely take place via Zoom and Gathertown. Chat will take place on the NMinD [slack](http://nmindteamworkspace.slack.com) organization. If you're not a member, please reach out to one of the organizers individually for an invitation link which will be provided separately via email, similar to the video conferencing addresses.
